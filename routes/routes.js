@@ -19,7 +19,7 @@ module.exports = app => {
         });
 
         //creating the /api/notes post route
-        app.post("/api/notes", (req, res) {
+        app.post("/api/notes", (req, res) => {
 
 
             let newNotes = req.body;
@@ -43,7 +43,7 @@ module.exports = app => {
             notes.splice(req.params.id, 1);
             updateDb();
             res.json(notes[req.params.id]);
-            console.log("Deleted" +req.params.id);
+            console.log("Deleted"+req.params.id);
         });
 
         //View route
