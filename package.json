@@ -64,6 +64,7 @@
     "vary": "^1.1.2"
   },
   "scripts": {
+    "dev": "npx nodemon server.js",
     "test": "tango",
     "start": "node server.js"
   },
