@@ -19,5 +19,5 @@ require('./routes/routes')(app);
 
 //listener setup
 app.listen(PORT, function() {
-        console.log (`App listening to PORT : ${PORT}`)
+        console.log (`App listening to  http://localhost:${PORT}`)
 });
