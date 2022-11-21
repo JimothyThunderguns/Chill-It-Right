@@ -20,9 +20,9 @@
   8. [Questions](#questions)
 
   ## Installation 
-  
+  Installation is not needed to use mine. 
 
-  ##Usage
+  If it 
   
 
   ## Contributors
@@ -35,10 +35,12 @@
   ## Contributors
   
 
-  ##Tests
-  
+  ## Tests
 
-  ##Questions
+  Test footage of the app:
+  https://drive.google.com/file/d/1jED__FHOSdVyl-fZUg5q77O9SM5gT9la/view
+
+  ## Questions
  Repo Link: https://github.com/JimothyThunderguns/Chill-It-Right
 
 Contact rcjackson96@gmail.com or undefined if you have any further questions.
